@@ -6,6 +6,6 @@
     ],
     "issues": true,
     "connectedOrg": "strapi-testing",
-    "branches": ['*']
+    "branches": ["*"]
   }
 }
