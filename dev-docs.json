@@ -4,6 +4,8 @@
     "userDocsWorkflows": [
       "generateUserDocs"
     ],
-    "issues": true
+    "issues": true,
+    "connectedOrg": "strapi-testing",
+    "branches": ['*']
   }
 }
