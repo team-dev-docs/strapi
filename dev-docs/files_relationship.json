@@ -1,1 +1,950 @@
-{}
+{
+  ".github/actions/check-pr-status/dist/index.js": {
+    "downstream_files": []
+  },
+  "api-tests/core/admin/admin-api-token-crud.test.api.ts": {
+    "downstream_files": []
+  },
+  "api-tests/core/admin/admin-transfer-token-crud.test.api.ts": {
+    "downstream_files": []
+  },
+  "api-tests/core/admin/ee/review-workflows-content-types.test.api.ts": {
+    "downstream_files": []
+  },
+  "api-tests/core/admin/ee/review-workflows-stage-permissions.test.api.ts": {
+    "downstream_files": []
+  },
+  "api-tests/core/admin/ee/review-workflows.test.api.ts": {
+    "downstream_files": []
+  },
+  "jest.config.api.js": {
+    "downstream_files": []
+  },
+  "package.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/.eslintignore": {
+    "downstream_files": []
+  },
+  "packages/core/admin/.eslintrc": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/hooks/tests/useAdminRoles.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/hooks/useAdminUsers.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/admin/tsconfig.build.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/constants/webhookEvents.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/constants/workflows.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/content-types/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/controllers/authentication/constants.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/controllers/authentication/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/controllers/authentication/middlewares.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/controllers/authentication/utils.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/controllers/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/destroy.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/register.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/routes/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/routes/utils.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/services/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/services/passport/sso.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/bootstrap.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/config/admin-actions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/constants/default-stages.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/constants/default-workflow.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/constants/webhookEvents.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/constants/workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/content-types/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/content-types/workflow-stage/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/content-types/workflow/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/__tests__/stages.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/audit-logs.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/authentication-utils/constants.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/authentication-utils/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/authentication-utils/middlewares.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/authentication-utils/utils.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/authentication.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/workflows/assignees/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/workflows/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/controllers/workflows/stages/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/destroy.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/middlewares/__tests__/review-workflows.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/middlewares/review-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/audit-logs-table.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-content-types.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-deleted-ct-in-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-stage-attribute.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-stages-color.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-stages-roles.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/migrations/review-workflows-workflow-name.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/register.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/audit-logs.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/license-limit.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/review-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/sso.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/routes/utils.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/assignees.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/audit-logs.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/passport.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/review-workflows-validation.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/review-workflows.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/sso.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/stages.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/__tests__/workflows.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/audit-logs.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/auth.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/passport.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/passport/provider-registry.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/passport/sso.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/__tests__/entity-service-decorator.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/assignees.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/entity-service-decorator.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/metrics/__tests__/weekly-metrics.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/metrics/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/metrics/weekly-metrics.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/review-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/stage-permissions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/stages.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/validation.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/workflows/__tests__/content-types.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/workflows/content-types.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/review-workflows/workflows/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/seat-enforcement.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/services/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/__tests__/persisted-tables.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/__tests__/sso-lock.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/persisted-tables.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/review-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/utils/sso-lock.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/validation/audit-logs.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/validation/authentication.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/validation/review-workflows.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/validation/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/src/validation/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/tsconfig.build.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/tsconfig.eslint.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/tsconfig.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/utils/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/server/validation/user.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/ee/strapi-server.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/package.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/packup.config.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/.eslintrc": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/config/admin-actions.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/config/admin-conditions.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/config/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/config/settings.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/content-types/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/content-api.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/formatters/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/permission.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/transfer/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/controllers/transfer/runner.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/domain/condition/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/domain/permission/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/domain/user.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/middlewares/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/policies/hasPermissions.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/policies/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/register.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/routes/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/action.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/condition.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/permission.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/permission/sections-builder/utils.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/services/transfer/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/bootstrap.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/config/admin-actions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/config/admin-conditions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/config/email-templates/forgot-password.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/config/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/config/settings.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/Permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/Role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/User.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/api-token-permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/api-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/transfer-token-permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/content-types/transfer-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/admin.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/api-token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/content-api.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/permission.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/role.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/transfer/token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/__tests__/user.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/api-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/authenticated-user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/authentication.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/content-api.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/formatters/conditions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/formatters/format-actions-by-sections.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/formatters/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/transfer/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/transfer/runner.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/transfer/token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/controllers/webhooks.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/destroy.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/action/__tests__/action-domain.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/action/__tests__/action-provider.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/action/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/action/provider.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/condition/__tests__/condition-domain.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/condition/__tests__/condition-provider.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/condition/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/condition/provider.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/permission/__tests__/permission-domain.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/permission/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/domain/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/middlewares/data-transfer.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/middlewares/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/middlewares/rateLimit.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/policies/hasPermissions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/policies/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/policies/isAuthenticatedAdmin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/policies/isTelemetryEnabled.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/register.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/api-tokens.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/authentication.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/content-api.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/permissions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/roles.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/serve-admin-panel.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/transfer.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/users.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/routes/webhooks.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/action.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/api-token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/auth.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/content-type.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/metrics.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/passport.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/permission.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/permissions-manager-sanitize.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/permissions-manager-validate.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/permissions-manager.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/permissions.section-builder.section.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/project-settings.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/role.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/transfer/token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/user.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/action.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/api-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/auth.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/condition.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/constants.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/content-type.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/metrics.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/passport.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/passport/local-strategy.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/engine.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/permissions-manager/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/permissions-manager/query-builders.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/permissions-manager/sanitize.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/permissions-manager/validate.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/queries.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/sections-builder/builder.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/sections-builder/handlers.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/sections-builder/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/sections-builder/section.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/permission/sections-builder/utils.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/project-settings.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/transfer/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/transfer/permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/transfer/token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/transfer/utils.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/__tests__/admin.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/__tests__/api-token.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/api-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/data-transfer.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/strategies/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/tsconfig.build.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/utils/index.d.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/utils/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/__tests__/common-functions.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/action-provider.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/api-tokens.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/authentication/forgot-password.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/authentication/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/authentication/register.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/authentication/renew-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/authentication/reset-password.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/common-functions/check-fields-are-correctly-nested.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/common-functions/check-fields-dont-have-duplicates.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/common-functions/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/common-validators.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/permission.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/policies/hasPermissions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/project-settings.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/role.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/transfer/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/transfer/token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/validation/user.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/tsconfig.build.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/tsconfig.eslint.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/tsconfig.json": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/validation/authentication/forgot-password.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/validation/authentication/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/validation/authentication/renew-token.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/validation/common-functions/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/validation/transfer/index.js": {
+    "downstream_files": []
+  },
+  "packages/core/admin/shared/contracts/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/shared/contracts/api-token.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/shared/contracts/authentication.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/shared/contracts/content-api.ts": {
+    "downstream_files": []
+  },
+  "examples/getstarted/config/admin.js": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/src/utils/dot-env.ts": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/example-js/.env.example": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/example-js/config/admin.js": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/example/.env.example": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/example/config/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/vanilla-js/.env.example": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/vanilla/.env.example": {
+    "downstream_files": []
+  },
+  "packages/cli/create-strapi-app/templates/vanilla/config/admin.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/pages/Settings/components/Tokens/FormHead.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/pages/Settings/components/Tokens/TokenBox.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/pages/Settings/pages/ApiTokens/EditView/EditViewPage.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/pages/Settings/pages/TransferTokens/EditView.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/__tests__/encryption.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/server/src/services/encryption.ts": {
+    "downstream_files": []
+  },
+  "tests/e2e/tests/admin/api-tokens.spec.ts": {
+    "downstream_files": []
+  }
+}
