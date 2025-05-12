@@ -946,5 +946,862 @@
   },
   "tests/e2e/tests/admin/api-tokens.spec.ts": {
     "downstream_files": []
+  },
+  "packages/core/upload/admin/.eslintignore": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/.eslintrc": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AssetCardBase.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/UploadingAssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/VideoPreview.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/AssetCardBase.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/DocAssetCard.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/ImageAssetCard.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/AssetDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/BrowseStep.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/Filters.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PageSize.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/Pagination.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/PaginationContext.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/PaginationFooter.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/components.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/SearchAsset.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/tests/SearchAsset.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/tests/__snapshots__/SearchAsset.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/tests/BrowseStep.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/tests/__snapshots__/BrowseStep.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/SelectedStep/SelectedStep.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/tests/AssetDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetGridList/AssetGridList.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetGridList/tests/AssetGridList.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/Breadcrumbs.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/CrumbSimpleMenuAsync.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/tests/Breadcrumbs.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/tests/__snapshots__/Breadcrumbs.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/BulkMoveDialog/BulkMoveDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/BulkMoveDialog/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/BulkMoveDialog/tests/BulkMoveDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/ContextInfo/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/ContextInfo/tests/ContextInfo.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/CopyLinkButton/CopyLinkButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/EditAssetContent.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/AssetPreview.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/CroppingActions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/PreviewBox.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/PreviewComponents.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/ReplaceMediaButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/EditAssetContent.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/EditAssetDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/RemoveAssetDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/__snapshots__/EditAssetContent.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/__snapshots__/EditAssetDialog.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/EditFolderDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/ModalHeader/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/RemoveFolderDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/tests/EditFolderDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EmptyAssets/EmptyAssets.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/FilterList.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/FilterTag.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/tests/FilterList.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/tests/__snapshots__/FilterList.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterPopover/FilterPopover.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterPopover/FilterValueInput.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterPopover/utils/getFilterList.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCard/FolderCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCard/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardBody/FolderCardBody.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardBody/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardBodyAction/FolderCardBodyAction.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardCheckbox/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/tests/FolderCard.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/tests/__snapshots__/FolderCard.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderGridList/FolderGridList.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderGridList/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderGridList/tests/FolderGridList.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryDialog/MediaLibraryDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/CarouselAsset.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/CarouselAssetActions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/CarouselAssets.tsx": {
+    "downstream_files": [
+      "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/CarouselAssets.tsx"
+    ]
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/EmptyStateAsset.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/tests/CarouselAssets.test.tsx": {
+    "downstream_files": [
+      "packages/core/upload/admin/src/components/MediaLibraryInput/Carousel/tests/CarouselAssets.test.tsx"
+    ]
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/MediaLibraryInput.tsx": {
+    "downstream_files": [
+      "packages/core/upload/admin/src/components/MediaLibraryInput/MediaLibraryInput.tsx"
+    ]
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/tests/MediaLibraryInput.test.tsx": {
+    "downstream_files": [
+      "packages/core/upload/admin/src/components/MediaLibraryInput/tests/MediaLibraryInput.test.tsx"
+    ]
+  },
+  "packages/core/upload/admin/src/components/SelectTree/Option.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/SelectTree.stories.mdx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/SelectTree.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/tests/SelectTree.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/flattenTree.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/getOpenValues.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/getValuesToClose.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/tests/flattenTree.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/tests/getOpenvalues.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/utils/tests/getValuesToClose.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SortPicker/SortPicker.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/CellContent.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/PreviewCell.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/TableList.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/TableRows.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/tests/CellContent.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/tests/TableList.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/tests/TableRows.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/tests/__snapshots__/CellContent.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/AddAssetStep/AddAssetStep.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/AddAssetStep/FromComputerForm.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/AddAssetStep/FromUrlForm.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/AddAssetStep/tests/__snapshots__/FromComputerForm.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/PendingAssetStep/PendingAssetStep.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/PendingAssetStep/tests/PendingAssetStep.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/UploadAssetDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/tests/UploadAssetDialog.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadProgress/UploadProgress.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadProgress/tests/UploadProgress.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/constants.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/constants.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/__mocks__/useModalQueryParams.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useBulkRemove.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useConfig.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useFolderStructure.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useFolders.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useModalQueryParams.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/tests/useRemoveAsset.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useAssets.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useBulkMove.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useBulkRemove.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useConfig.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useEditAsset.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useEditFolder.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useFolder.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useFolderStructure.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useFolders.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useMediaLibraryPermissions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useModalQueryParams.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useRemoveAsset.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useSelectionState.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/useUpload.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/utils/renameKeys.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/hooks/utils/tests/renameKeys.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/App.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/ConfigureTheView.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/components/Settings.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/components/tests/Settings.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/components/tests/__snapshots__/Settings.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/actionTypes.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/actions.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/actions.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/init.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/init.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/reducer.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/tests/init.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/state/tests/reducer.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/tests/ConfigureTheView.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/ConfigureTheView/tests/__snapshots__/ConfigureTheView.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/MediaLibrary.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/BulkActions.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/BulkActions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/BulkDeleteButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/BulkMoveButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/EmptyOrNoPermissions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/Filters.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/Header.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/BulkActions.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/BulkDeleteButton.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/BulkMoveButton.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/EmptyOrNoPermissions.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/Header.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/__snapshots__/BulkActions.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/__snapshots__/BulkDeleteButton.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/__snapshots__/BulkMoveButton.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/components/tests/__snapshots__/Header.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/MediaLibrary/tests/MediaLibrary.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/BulkActions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/BulkDeleteButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/BulkMoveButton.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/EmptyOrNoPermissions.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/Filters.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/Header.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/App/components/tests/EmptyOrNoPermissions.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/SettingsPage.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/init.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/init.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/reducer.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/reducer.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/tests/SettingsPage.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pages/SettingsPage/tests/reducer.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/pluginId.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/translations/tests/plural.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getAPIInnerErrors.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getAllowedFiles.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getBreadcrumbDataCM.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getBreadcrumbDataML.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getFolderParents.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getFolderURL.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/getTrad.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/index.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/normalizeAPIError.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/rawFileToAsset.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/tests/typeFromMime.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/toSingularTypes.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/typeFromMime.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/urlsToAssets.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/tests/handlers.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/package.json": {
+    "downstream_files": []
+  },
+  "packages/core/upload/packup.config.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/shared/contracts/settings.ts": {
+    "downstream_files": []
+  },
+  "packages/core/admin/admin/src/features/Tracking.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AssetCard.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AudioAssetCard.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AudioAssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AudioPreview.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/AudioPreview.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/DocAssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/ImageAssetCard.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/ImageAssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/VideoAssetCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/VideoPreview.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/AudioAssetCard.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/DocAssetCard.test.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/ImageAssetCard.test.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/__snapshots__/DocAssetCard.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetCard/tests/__snapshots__/ImageAssetCard.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/Pagination.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/PaginationContext.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/PaginationFooter/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/tests/__snapshots__/index.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/tests/index.test.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/SearchAsset/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/tests/__snapshots__/index.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/utils/isSelectable.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/BrowseStep/utils/tests/isSelectable.test.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/DialogFooter.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/SelectedStep/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetDialog/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetGridList/Draggable.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetGridList/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/AssetGridList/tests/__snapshots__/AssetGridList.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/Breadcrumbs.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/tests/__snapshots__/index.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/Breadcrumbs/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/BulkMoveDialog/tests/__snapshots__/BulkMoveDialog.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/ContextInfo/ContextInfo.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/ContextInfo/tests/__snapshots__/ContextInfo.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/CopyLinkButton/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/DialogHeader.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/components.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/PreviewBox/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/RemoveAssetDialog.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/RemoveAssetDialog.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/__snapshots__/RemoveAssetDialog.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/__snapshots__/index.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditAssetDialog/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/ModalHeader/ModalHeader.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EditFolderDialog/tests/__snapshots__/EditFolderDialog.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EmptyAssets/EmptyAssetGrid.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/EmptyAssets/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/tests/__snapshots__/index.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterList/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FilterPopover/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardBodyAction/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/FolderCardCheckbox/FolderCardCheckbox.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/contexts/FolderCard.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/hooks/tests/useId.test.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderCard/hooks/useId.js": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/FolderGridList/tests/__snapshots__/FolderGridList.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryDialog/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/MediaLibraryInput/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SelectTree/tests/__snapshots__/SelectTree.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/SortPicker/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/TableRows.jsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/TableList/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/AddAssetStep/tests/FromComputerForm.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadAssetDialog/PendingAssetStep/tests/__snapshots__/PendingAssetStep.test.tsx.snap": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadProgress/index.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/components/UploadProgress/tests/index.test.tsx": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/newConstants.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/findRecursiveFolderByValue.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/admin/src/utils/moveElement.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/shared/contracts/files.ts": {
+    "downstream_files": []
+  },
+  "packages/core/upload/shared/contracts/folders.ts": {
+    "downstream_files": []
   }
 }
